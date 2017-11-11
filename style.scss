@@ -115,6 +115,13 @@ img {
   max-width: none;
 }
 
+// Centers images
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
 .date {
   font-style: italic;
   color: $gray;
